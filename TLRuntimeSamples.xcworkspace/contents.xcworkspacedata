@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:TLAspectsSample.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:TLRuntimeMessage.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
